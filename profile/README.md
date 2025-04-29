@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d020da03-d5b3-4ab5-b791-6cd9c7278578" alt="TEAM IMAGE" />
+  <img src="https://github.com/user-attachments/assets/2ca3b1ba-d5d9-4c4c-a851-a5db1f1bbbcb" alt="TEAM IMAGE" />
   <!-- 팀원 소개 -->
 
   
