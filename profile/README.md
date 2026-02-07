@@ -1,5 +1,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2ca3b1ba-d5d9-4c4c-a851-a5db1f1bbbcb" alt="TEAM IMAGE" />
+  
+  <img width="3840" height="5296" alt="image" src="https://github.com/user-attachments/assets/cde8bf9b-05c8-4382-bf15-9233498bb707" />
+
+  <img src="https://github.com/user-attachments/assets/2ca3b1ba-d5d9-4c4c-a851-a5db1f1bbbcb" alt="TEAM IMAGE" />
   <!-- 팀원 소개 -->
 
   
